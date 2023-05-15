@@ -1,0 +1,10 @@
+{
+  "name": "datasources",
+  "connector": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "yogesh",
+  "database": "smart-hire",
+  "connectionLimit": 10
+}
